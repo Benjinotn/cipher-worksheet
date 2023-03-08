@@ -23,3 +23,14 @@ def save(filename, text):
     textfile.write(text)
     
     textfile.close()
+    
+def get_task_text(filename):
+    
+    name = filename + ".txt"
+    textfile = open(name , "r")
+    
+    text = textfile.read()
+    
+    textfile.close()
+    
+    return text
