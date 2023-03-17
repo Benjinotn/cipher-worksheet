@@ -1,5 +1,5 @@
 class Alice:
-    __clue = "my favourite creature + best album + birthyear + Maiden Name, In any order!!!!"
+    __clue = "my favourite pet + best album + birthyear + Maiden Name, In any order!!!!"
     
     __facebook = """Alice Granger Facebook Metadata
                   Product Designer
